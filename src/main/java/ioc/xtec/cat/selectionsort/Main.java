@@ -17,6 +17,8 @@ public class Main {
 */
 public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
+        
+        System.out.println("Hola Josep Maria Mirada");
 
         System.out.println("Introdueix la mida de l'array: ");
         int size = scanner.nextInt();
